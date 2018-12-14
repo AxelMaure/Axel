@@ -15,7 +15,7 @@ public class Bateria {
 //    public void consumo(int tiempo, int consumo){
 //       carga = carga - (tiempo*consumo);
 //    }
-// hola para los q miran por tv
+// hola para todos
     
     public void consumir(int energia){
         carga = carga - energia;
